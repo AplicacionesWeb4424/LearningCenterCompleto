@@ -3,16 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatecategorycommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatecategorycommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\events\\categorycreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\events\\categorycreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\application\\internal\\commandservices\\categorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\application\\internal\\commandservices\\categorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\learningcenterplatform.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\learningcenterplatform.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\application\\internal\\eventhadlers\\categorycreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\application\\internal\\eventhadlers\\categorycreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\shared\\application\\internal\\eventhandlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\shared\\application\\internal\\eventhandlers\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\services\\icategorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\services\\icategorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\shared\\domain\\model\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\shared\\domain\\model\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\iam\\infrastructure\\pipeline\\middleware\\components\\requestauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\iam\\infrastructure\\pipeline\\middleware\\components\\requestauthorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\learningcenterplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\learningcenterplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\iam\\infrastructure\\tokens\\jwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\iam\\infrastructure\\tokens\\jwt\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\assetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\assetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\tutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\tutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\application\\internal\\commandservices\\tutorialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\application\\internal\\commandservices\\tutorialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\repositories\\itutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\repositories\\itutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\entities\\videoasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\entities\\videoasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\repositories\\iassetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\repositories\\iassetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\tutorialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\tutorialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\profiles\\domain\\model\\aggregates\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\profiles\\domain\\model\\aggregates\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatetutorialcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatetutorialcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\commands\\updatetutorialcomannd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\commands\\updatetutorialcomannd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\categorytutorialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\categorytutorialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\transform\\deletetutorialcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\transform\\deletetutorialcommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatecategorycommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\transform\\updatecategorycommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\transform\\deletecategorycommandfromresourceassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +139,56 @@
       "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\deletecategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\resources\\createcategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\createcategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\resources\\deletetutorialresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\deletetutorialresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\resources\\updatetutorialresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\updatetutorialresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\resources\\updatecategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\updatecategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\shared\\infrastructure\\persistence\\efc\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\commands\\deletetutorialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\commands\\deletetutorialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\infrastructure\\persistence\\efc\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\commands\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\commands\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\services\\icategorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\services\\icategorycommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\services\\itutorialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\services\\itutorialcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\commands\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\commands\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\domain\\model\\commands\\createtutorialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\domain\\model\\commands\\createtutorialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\profiles\\application\\internal\\commandservices\\profilecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\profiles\\application\\internal\\commandservices\\profilecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\profiles\\domain\\services\\iprofilecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\profiles\\domain\\services\\iprofilecommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\profiles\\domain\\model\\commands\\createprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\profiles\\domain\\model\\commands\\createprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\iam\\infrastructure\\pipeline\\middleware\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\iam\\infrastructure\\pipeline\\middleware\\attributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|c:\\users\\casa\\documents\\aplicacionesweb\\juevesysabado\\semana10\\learningcenterplatform0506\\learningcenterplatform\\learningcenterplatform\\publishing\\interfaces\\rest\\resources\\createcategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B636CD-258B-4DD9-8C1A-85D557B1C6EA}|LearningCenterPlatform\\LearningCenterPlatform.csproj|solutionrelative:learningcenterplatform\\publishing\\interfaces\\rest\\resources\\createcategoryresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,59 +198,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateCategoryCommandFromResourceAssembler.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "RequestAuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Components\\RequestAuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Components\\RequestAuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Components\\RequestAuthorizationMiddleware.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Components\\RequestAuthorizationMiddleware.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:08:33.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T23:49:36.946Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Program.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADgv6cAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:54:01.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeleteCategoryCommandFromResourceAssembler.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Title": "CategoryCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:08:52.217Z",
+              "WhenOpened": "2025-06-13T02:04:24.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:04:08.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LearningCenterPlatform.http",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\LearningCenterPlatform.http",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\LearningCenterPlatform.http",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\LearningCenterPlatform.http",
+              "RelativeToolTip": "LearningCenterPlatform\\LearningCenterPlatform.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-14T14:13:18.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Events\\CategoryCreatedEvent.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Events\\CategoryCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Events\\CategoryCreatedEvent.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Events\\CategoryCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:31:28.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateCategoryResource.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:07:31.187Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\appsettings.json",
+              "RelativeToolTip": "LearningCenterPlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T02:42:40.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteCategoryResource.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\appsettings.Development.json",
+              "RelativeToolTip": "LearningCenterPlatform\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T14:50:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Domain\\Model\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Shared\\Domain\\Model\\Events\\IEvent.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Domain\\Model\\Events\\IEvent.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Shared\\Domain\\Model\\Events\\IEvent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:07:20.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:29:49.378Z"
             },
             {
               "$type": "Document",
@@ -112,62 +318,33 @@
               "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoriesController.cs",
               "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoriesController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwEsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:06:23.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryCommandService.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\CategoryCommandService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:04:24.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateCategoryResource.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:06:53.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T02:06:23.75Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAtAAAAAAAAAA==",
+              "Title": "CategoryCreatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\EventHadlers\\CategoryCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Application\\Internal\\EventHadlers\\CategoryCreatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\EventHadlers\\CategoryCreatedEventHandler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Application\\Internal\\EventHadlers\\CategoryCreatedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:05:16.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:34:51.06Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Application\\Internal\\EventHandlers\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Shared\\Application\\Internal\\EventHandlers\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Application\\Internal\\EventHandlers\\IEventHandler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Shared\\Application\\Internal\\EventHandlers\\IEventHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:04:08.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T14:38:57.008Z"
             },
             {
               "$type": "Document",
@@ -177,10 +354,417 @@
               "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Services\\ICategoryCommandService.cs",
               "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Services\\ICategoryCommandService.cs",
               "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Services\\ICategoryCommandService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T02:03:03.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T02:03:03.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TutorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\TutorialRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\TutorialRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\TutorialRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\TutorialRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:42:24.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LearningCenterPlatform.csproj",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\LearningCenterPlatform.csproj",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\LearningCenterPlatform.csproj",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\LearningCenterPlatform.csproj",
+              "RelativeToolTip": "LearningCenterPlatform\\LearningCenterPlatform.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T02:01:01.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Tokens\\JWT\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\IAM\\Infrastructure\\Tokens\\JWT\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Tokens\\JWT\\Services\\TokenService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\IAM\\Infrastructure\\Tokens\\JWT\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:27:36.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssetsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\AssetsRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\AssetsRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\AssetsRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Infrastructure\\Persistence\\EFC\\Repositories\\AssetsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:47:51.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Configuration\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:23:32.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VideoAsset.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\VideoAsset.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\VideoAsset.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\VideoAsset.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\VideoAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:50:49.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TutorialCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\TutorialCommandService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\TutorialCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\TutorialCommandService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Application\\Internal\\CommandServices\\TutorialCommandService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA1wDwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:56:03.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAssetsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\IAssetsRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\IAssetsRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\IAssetsRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\IAssetsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:44:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\Asset.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\Asset.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\Asset.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Entities\\Asset.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:50:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:43:23.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITutorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ITutorialRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ITutorialRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ITutorialRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Repositories\\ITutorialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:57:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Shared\\Infrastructure\\Persistence\\EFC\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:05:16.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateCategoryCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateCategoryCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:08:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TutorialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\TutorialsController.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\TutorialsController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\TutorialsController.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\TutorialsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwGcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:51:03.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Model\\Aggregates\\Profile.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Profiles\\Domain\\Model\\Aggregates\\Profile.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Model\\Aggregates\\Profile.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Profiles\\Domain\\Model\\Aggregates\\Profile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:24:16.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateTutorialCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateTutorialCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateTutorialCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateTutorialCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\UpdateTutorialCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:22:58.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteTutorialCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteTutorialCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteTutorialCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteTutorialCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteTutorialCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:23:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateTutorialComannd.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateTutorialComannd.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateTutorialComannd.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateTutorialComannd.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateTutorialComannd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:08:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryTutorialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoryTutorialsController.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoryTutorialsController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoryTutorialsController.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\CategoryTutorialsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:27:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteCategoryCommandFromResourceAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Transform\\DeleteCategoryCommandFromResourceAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:08:52.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteCategoryResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteCategoryResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:07:20.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteTutorialResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteTutorialResource.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteTutorialResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteTutorialResource.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\DeleteTutorialResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:22:00.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateTutorialResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateTutorialResource.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateTutorialResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateTutorialResource.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateTutorialResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:20:27.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateCategoryResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\UpdateCategoryResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:06:53.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteTutorialCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteTutorialCommand.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteTutorialCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteTutorialCommand.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteTutorialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:08:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\DeleteCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:10:14.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITutorialCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Services\\ITutorialCommandService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Services\\ITutorialCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Services\\ITutorialCommandService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Services\\ITutorialCommandService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:11:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\UpdateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:08:41.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateTutorialCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\CreateTutorialCommand.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\CreateTutorialCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\CreateTutorialCommand.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Domain\\Model\\Commands\\CreateTutorialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:08:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateProfileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Model\\Commands\\CreateProfileCommand.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Profiles\\Domain\\Model\\Commands\\CreateProfileCommand.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Model\\Commands\\CreateProfileCommand.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Profiles\\Domain\\Model\\Commands\\CreateProfileCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:40:52.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Application\\Internal\\CommandServices\\ProfileCommandService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Profiles\\Application\\Internal\\CommandServices\\ProfileCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Application\\Internal\\CommandServices\\ProfileCommandService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Profiles\\Application\\Internal\\CommandServices\\ProfileCommandService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:20:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProfileCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Services\\IProfileCommandService.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Profiles\\Domain\\Services\\IProfileCommandService.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Profiles\\Domain\\Services\\IProfileCommandService.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Profiles\\Domain\\Services\\IProfileCommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:42:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Attributes\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Attributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\IAM\\Infrastructure\\Pipeline\\Middleware\\Attributes\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T23:47:21.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateCategoryResource.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
+              "RelativeDocumentMoniker": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
+              "RelativeToolTip": "LearningCenterPlatform\\Publishing\\Interfaces\\REST\\Resources\\CreateCategoryResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:07:31.187Z"
             }
           ]
         }

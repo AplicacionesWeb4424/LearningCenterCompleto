@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\Properties\PublishProfiles\LearningCenterPlatform202506192103374424 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

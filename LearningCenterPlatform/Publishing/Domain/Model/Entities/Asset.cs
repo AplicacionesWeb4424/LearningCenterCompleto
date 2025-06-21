@@ -1,3 +1,4 @@
+using LearningCenterPlatform.Publishing.Domain.Model.Aggregate;
 using LearningCenterPlatform.Publishing.Domain.Model.ValueObjects;
 
 namespace LearningCenterPlatform.Publishing.Domain.Model.Entities;
@@ -17,6 +18,9 @@ public partial class Asset(EAssetType type) : IPublishable
     public EAssetType Type { get; private set; } = type;
     public virtual bool Readable => false;
     public virtual bool Viewable => false;
+
+    public Tutorial Tutorial { get; internal set; }
+    public int TutorialId { get; internal set; }
 
     /// <summary>
     ///     Send the asset to the editing phase. It sets the <see cref="EPublishingStatus.ReadyToEdit" /> status.

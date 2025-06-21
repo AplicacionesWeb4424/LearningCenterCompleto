@@ -26,6 +26,9 @@ using LearningCenterPlatform.Shared.Infrastructure.Persistence.EFC.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using LearningCenterPlatform.IAM.Infrastructure.Pipeline.Middleware.Extensions;
+using Cortex.Mediator.Commands;
+using Cortex.Mediator.DependencyInjection;
+using Cortex.Mediator.Behaviors;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -119,6 +122,7 @@ builder.Services.AddScoped<ICategoryCommandService, CategoryCommandService>();
 builder.Services.AddScoped<ICategoryQueryService, CategoryQueryService>();
 builder.Services.AddScoped<ITutorialCommandService, TutorialCommandService>();
 builder.Services.AddScoped<ITutorialQueryService, TutorialQueryService>();
+builder.Services.AddScoped<IAssetsRepository, AssetsRepository>();
 
 
 // Profiles Bounded Context Dependency Injection Configuration
@@ -139,6 +143,20 @@ builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IHashingService, HashingService>();
 builder.Services.AddScoped<IIamContextFacade, IamContextFacade>();
 
+// Mediator Configuration
+
+// Add Mediator Injection Configuration
+builder.Services.AddScoped(typeof(ICommandPipelineBehavior<>), typeof(LoggingCommandBehavior<>));
+
+// Add Cortex Mediator for Event Handling
+builder.Services.AddCortexMediator(
+    configuration: builder.Configuration,
+    handlerAssemblyMarkerTypes: new[] { typeof(Program) }, configure: options =>
+    {
+        options.AddOpenCommandPipelineBehavior(typeof(LoggingCommandBehavior<>));
+        //options.AddDefaultBehaviors();
+    });
+
 
 var app = builder.Build();
 
@@ -151,14 +169,25 @@ using (var scope = app.Services.CreateScope())
 }   
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+/*if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}*/
+
+// Configure the HTTP request pipeline.
+//if (app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Environment.IsProduction())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
-        {
-            c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
-            c.RoutePrefix = string.Empty; // Opcional: para que Swagger sea la página raíz
-        }); ;
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+        c.RoutePrefix = string.Empty; // Opcional: para que Swagger sea la página raíz
+        c.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
+
+    });
+
 }
 
 // Apply CORS Policy

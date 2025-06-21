@@ -27,4 +27,5 @@ namespace LearningCenterPlatform.Profiles.Domain.Model.Commands;
 /// <param name="Country">
 /// The country of the profile.
 /// </param>
-public record CreateProfileCommand( string FirstName, string LastName, string Email, string Street, string Number, string City, string PostalCode, string Country);
+public record CreateProfileCommand( string FirstName, string LastName, string Email, string Street, string Number, string City, 
+    string PostalCode, string Country);

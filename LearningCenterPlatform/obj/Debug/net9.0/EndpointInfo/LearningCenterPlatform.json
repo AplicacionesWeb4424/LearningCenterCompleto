@@ -498,6 +498,90 @@
           }
         }
       },
+      "put": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Update a tutorial",
+        "description": "Update a tutorial",
+        "operationId": "UpdateTutorial",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateTutorialResource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateTutorialResource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateTutorialResource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "The tutorial was updated",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CategoryResource"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "The tutorial could not be updated"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Delete a Tutorial",
+        "description": "Detele a Tutorial",
+        "operationId": "DeleteTutorial",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeleteTutorialResource"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeleteTutorialResource"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DeleteTutorialResource"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "The Tutorial was deleted",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CategoryResource"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "The Tutorial could not be Deleted"
+          }
+        }
+      },
       "get": {
         "tags": [
           "Tutorials"
@@ -756,6 +840,16 @@
         },
         "additionalProperties": false
       },
+      "DeleteTutorialResource": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
       "ProfileResource": {
         "type": "object",
         "properties": {
@@ -841,6 +935,28 @@
           "name": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateTutorialResource": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          },
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

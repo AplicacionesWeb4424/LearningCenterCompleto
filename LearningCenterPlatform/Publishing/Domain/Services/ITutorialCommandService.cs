@@ -29,4 +29,8 @@ public interface ITutorialCommandService
     ///     The created <see cref="Tutorial" /> entity.
     /// </returns>
     Task<Tutorial?> Handle(CreateTutorialCommand command);
+
+    Task<Tutorial?> Handle(DeleteTutorialCommand command);
+
+    Task<Tutorial?> Handle(UpdateTutorialCommand command);
 }

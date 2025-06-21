@@ -8,14 +8,16 @@ C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPla
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\LearningCenterPlatform.pdb
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\BCrypt.Net-Next.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Cortex.Mediator.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\EntityFrameworkCore.CreatedUpdatedDate.dll
+C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Google.Protobuf.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Humanizer.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\K4os.Compression.LZ4.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\K4os.Hash.xxHash.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
@@ -25,6 +27,7 @@ C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPla
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -38,6 +41,7 @@ C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPla
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\MySql.Data.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\MySql.EntityFrameworkCore.dll
+C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Scrutor.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Casa\Documents\AplicacionesWeb\juevesysabado\Semana10\LearningCenterPlatform0506\LearningCenterPlatform\LearningCenterPlatform\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll

@@ -318,6 +318,64 @@
   },
   {
     "ContainingType": "LearningCenterPlatform.Publishing.Interfaces.REST.TutorialsController",
+    "Method": "UpdateTutorial",
+    "RelativePath": "api/v1/tutorials",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "LearningCenterPlatform.Publishing.Interfaces.REST.Resources.UpdateTutorialResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LearningCenterPlatform.Publishing.Interfaces.REST.Resources.CategoryResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "LearningCenterPlatform.Publishing.Interfaces.REST.TutorialsController",
+    "Method": "DeleteTutorial",
+    "RelativePath": "api/v1/tutorials",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "LearningCenterPlatform.Publishing.Interfaces.REST.Resources.DeleteTutorialResource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LearningCenterPlatform.Publishing.Interfaces.REST.Resources.CategoryResource",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "LearningCenterPlatform.Publishing.Interfaces.REST.TutorialsController",
     "Method": "GetAllTutorials",
     "RelativePath": "api/v1/tutorials",
     "HttpMethod": "GET",

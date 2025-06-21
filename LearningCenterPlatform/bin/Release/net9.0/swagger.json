@@ -1,0 +1,897 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "ACME.LearningCenterPlatform.API",
+    "description": "ACME Learning Center Platform API",
+    "termsOfService": "https://acme-learning.com/tos",
+    "contact": {
+      "name": "ACME Studios",
+      "email": "contact@acme.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/api/v1/authentication/sign-in": {
+      "post": {
+        "tags": [
+          "Authentication"
+        ],
+        "summary": "Sign in",
+        "description": "Sign in a user",
+        "operationId": "SignIn",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/SignInResource"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The user was authenticated",
+            "schema": {
+              "$ref": "#/definitions/AuthenticatedUserResource"
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/authentication/sign-up": {
+      "post": {
+        "tags": [
+          "Authentication"
+        ],
+        "summary": "Sign-up",
+        "description": "Sign up a new user",
+        "operationId": "SignUp",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/SignUpResource"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The user was created successfully"
+          }
+        }
+      }
+    },
+    "/api/v1/categories/{categoryId}": {
+      "get": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Get all categories",
+        "description": "Get all categories",
+        "operationId": "GetAllCategories",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "categoryId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The list of categories",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "404": {
+            "description": "No categories found"
+          }
+        }
+      }
+    },
+    "/api/v1/categories": {
+      "post": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Create a new category",
+        "description": "Create a new category",
+        "operationId": "CreateCategory",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/CreateCategoryResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The category was created",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "400": {
+            "description": "The category could not be created"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Update a category",
+        "description": "Update a category",
+        "operationId": "UpdateCategory",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UpdateCategoryResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The category was updated",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "400": {
+            "description": "The category could not be updated"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Delete a category",
+        "description": "Detele a category",
+        "operationId": "DeleteCategory",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/DeleteCategoryResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The category was deleted",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "400": {
+            "description": "The category could not be Deleted"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Get all categories",
+        "description": "Get all categories",
+        "operationId": "GetAllCategories",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "The list of categories",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/CategoryResource"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/categories/{categoryId}/tutorials": {
+      "get": {
+        "tags": [
+          "Categories"
+        ],
+        "summary": "Get all tutorials by category id",
+        "description": "Get all tutorials by category id",
+        "operationId": "GetAllTutorialsByCategoryId",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "categoryId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The list of tutorials",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/TutorialResource"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/profiles/{profileId}": {
+      "get": {
+        "tags": [
+          "Profiles"
+        ],
+        "summary": "Get Profile by Id",
+        "description": "Get a profile by its unique identifier.",
+        "operationId": "GetProfileById",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "profileId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The profile was found and returned.",
+            "schema": {
+              "$ref": "#/definitions/ProfileResource"
+            }
+          },
+          "404": {
+            "description": "The profile was not found."
+          }
+        }
+      }
+    },
+    "/api/v1/profiles": {
+      "post": {
+        "tags": [
+          "Profiles"
+        ],
+        "summary": "Create Profile",
+        "description": "Create a new profile.",
+        "operationId": "CreateProfile",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/CreateProfileResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The profile was created.",
+            "schema": {
+              "$ref": "#/definitions/ProfileResource"
+            }
+          },
+          "400": {
+            "description": "The profile was not created."
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Profiles"
+        ],
+        "summary": "Get All Profiles",
+        "description": "Get all profiles.",
+        "operationId": "GetAllProfiles",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "The profiles were found and returned.",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/ProfileResource"
+              }
+            }
+          },
+          "404": {
+            "description": "The profiles were not found."
+          }
+        }
+      }
+    },
+    "/api/v1/tutorials/{tutorialId}": {
+      "get": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Get a tutorial by its id",
+        "description": "Get a tutorial by its id",
+        "operationId": "GetTutorialById",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "tutorialId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The tutorial was found",
+            "schema": {
+              "$ref": "#/definitions/TutorialResource"
+            }
+          },
+          "404": {
+            "description": "The tutorial was not found"
+          }
+        }
+      }
+    },
+    "/api/v1/tutorials": {
+      "post": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Create a tutorial",
+        "description": "Create a tutorial",
+        "operationId": "CreateTutorial",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/CreateTutorialResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The tutorial was created",
+            "schema": {
+              "$ref": "#/definitions/TutorialResource"
+            }
+          },
+          "400": {
+            "description": "The tutorial was not created"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Update a tutorial",
+        "description": "Update a tutorial",
+        "operationId": "UpdateTutorial",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UpdateTutorialResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The tutorial was updated",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "400": {
+            "description": "The tutorial could not be updated"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Delete a Tutorial",
+        "description": "Detele a Tutorial",
+        "operationId": "DeleteTutorial",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/DeleteTutorialResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The Tutorial was deleted",
+            "schema": {
+              "$ref": "#/definitions/CategoryResource"
+            }
+          },
+          "400": {
+            "description": "The Tutorial could not be Deleted"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Get all tutorials",
+        "description": "Get all tutorials",
+        "operationId": "GetAllTutorials",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "The tutorials were found",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/TutorialResource"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/tutorials/{tutorialId}/videos": {
+      "post": {
+        "tags": [
+          "Tutorials"
+        ],
+        "summary": "Add a video to a tutorial",
+        "description": "Add a video to a tutorial",
+        "operationId": "AddVideoToTutorial",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "tutorialId",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/AddVideoAssetToTutorialResource"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "The video was added to the tutorial",
+            "schema": {
+              "$ref": "#/definitions/TutorialResource"
+            }
+          },
+          "400": {
+            "description": "The video was not added to the tutorial"
+          }
+        }
+      }
+    },
+    "/api/v1/users/{id}": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get a user by its id",
+        "description": "Get a user by its id",
+        "operationId": "GetUserById",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "The user was found",
+            "schema": {
+              "$ref": "#/definitions/UserResource"
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/users": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get all users",
+        "description": "Get all users",
+        "operationId": "GetAllUsers",
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "The users were found",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/UserResource"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "AddVideoAssetToTutorialResource": {
+      "type": "object",
+      "properties": {
+        "videoUrl": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "AuthenticatedUserResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "username": {
+          "type": "string"
+        },
+        "token": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "CategoryResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "CreateCategoryResource": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "CreateProfileResource": {
+      "type": "object",
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "street": {
+          "type": "string"
+        },
+        "number": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "postalCode": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "CreateTutorialResource": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "categoryId": {
+          "format": "int32",
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    },
+    "DeleteCategoryResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    },
+    "DeleteTutorialResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    },
+    "ProfileResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "fullName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "streetAddress": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "SignInResource": {
+      "type": "object",
+      "properties": {
+        "username": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "SignUpResource": {
+      "type": "object",
+      "properties": {
+        "username": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "TutorialResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "category": {
+          "$ref": "#/definitions/CategoryResource"
+        },
+        "status": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "UpdateCategoryResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "UpdateTutorialResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "summary": {
+          "type": "string"
+        },
+        "categoryId": {
+          "format": "int32",
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    },
+    "UserResource": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "username": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "securityDefinitions": {
+    "Bearer": { }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Categories",
+      "description": "Available Category Endpoints"
+    },
+    {
+      "name": "Tutorials",
+      "description": "Available Tutorial endpoints"
+    },
+    {
+      "name": "Profiles",
+      "description": "Available Profile Endpoints."
+    },
+    {
+      "name": "Authentication",
+      "description": "Available Authentication endpoints"
+    },
+    {
+      "name": "Users",
+      "description": "Available User endpoints"
+    }
+  ]
+}

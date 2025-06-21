@@ -1,8 +1,10 @@
 using LearningCenterPlatform.Publishing.Domain.Model.Commands;
 using LearningCenterPlatform.Publishing.Domain.Model.Entities;
+using LearningCenterPlatform.Publishing.Domain.Model.Events;
 using LearningCenterPlatform.Publishing.Domain.Repositories;
 using LearningCenterPlatform.Publishing.Domain.Services;
 using LearningCenterPlatform.Shared.Domain.Repositories;
+using Cortex.Mediator;
 
 namespace LearningCenterPlatform.Publishing.Application.Internal.CommandServices;
 
@@ -15,7 +17,7 @@ namespace LearningCenterPlatform.Publishing.Application.Internal.CommandServices
 /// <param name="unitOfWork">
 ///     The <see cref="IUnitOfWork" /> to use.
 /// </param>
-public class CategoryCommandService(ICategoryRepository categoryRepository, IUnitOfWork unitOfWork)
+public class CategoryCommandService(ICategoryRepository categoryRepository, IUnitOfWork unitOfWork, IMediator domainEventPublisher)
     : ICategoryCommandService
 {
     /// <inheritdoc />
@@ -24,6 +26,9 @@ public class CategoryCommandService(ICategoryRepository categoryRepository, IUni
         var category = new Category(command);
         await categoryRepository.AddAsync(category);
         await unitOfWork.CompleteAsync();
+
+        await domainEventPublisher.PublishAsync(new CategoryCreatedEvent(category.Name));
+
         return category;
     }
 
@@ -34,6 +39,7 @@ public class CategoryCommandService(ICategoryRepository categoryRepository, IUni
         return category;
     }
 
+
     public async Task<Category?> Handle(DeleteCategoryCommand command)
     {
         var category = await categoryRepository.FindByIdAsync(command.Id);
@@ -42,4 +48,6 @@ public class CategoryCommandService(ICategoryRepository categoryRepository, IUni
         await unitOfWork.CompleteAsync();
         return category;
     }
+
+
 }

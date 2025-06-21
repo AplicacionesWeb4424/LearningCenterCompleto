@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="LearningCenterPlatform202506192103374424" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Casa\\Documents\\AplicacionesWeb\\juevesysabado\\Semana10\\LearningCenterPlatform0506\\LearningCenterPlatform\\LearningCenterPlatform\\obj\\Release\\net9\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

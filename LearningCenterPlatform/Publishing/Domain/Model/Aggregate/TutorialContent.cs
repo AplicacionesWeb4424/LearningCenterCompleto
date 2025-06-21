@@ -1,3 +1,4 @@
+using LearningCenterPlatform.Publishing.Domain.Model.Commands;
 using LearningCenterPlatform.Publishing.Domain.Model.Entities;
 using LearningCenterPlatform.Publishing.Domain.Model.ValueObjects;
 
@@ -12,6 +13,16 @@ public partial class Tutorial : IPublishable
     {
         Title = string.Empty;
         Summary = string.Empty;
+        Assets = new List<Asset>();
+        Status = EPublishingStatus.Draft;
+    }
+
+    public Tutorial(UpdateTutorialCommand command)
+    {
+        Id = command.Id;
+        Title = command.Title;
+        Summary = command.Summary;
+        CategoryId = command.CategoryId;
         Assets = new List<Asset>();
         Status = EPublishingStatus.Draft;
     }

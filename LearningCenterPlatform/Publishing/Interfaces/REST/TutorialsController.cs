@@ -1,4 +1,5 @@
 using System.Net.Mime;
+using LearningCenterPlatform.Publishing.Application.Internal.CommandServices;
 using LearningCenterPlatform.Publishing.Domain.Model.Queries;
 using LearningCenterPlatform.Publishing.Domain.Services;
 using LearningCenterPlatform.Publishing.Interfaces.REST.Resources;
@@ -75,6 +76,37 @@ public class TutorialsController(
         var tutorialResource = TutorialResourceFromEntityAssembler.ToResourceFromEntity(tutorial);
         return CreatedAtAction(nameof(GetTutorialById), new { tutorialId = tutorial.Id }, tutorialResource);
     }
+    [HttpPut]
+    [SwaggerOperation(
+     Summary = "Update a tutorial",
+     Description = "Update a tutorial",
+     OperationId = "UpdateTutorial")]
+    [SwaggerResponse(StatusCodes.Status201Created, "The tutorial was updated", typeof(CategoryResource))]
+    [SwaggerResponse(StatusCodes.Status400BadRequest, "The tutorial could not be updated")]
+    public async Task<IActionResult> UpdateTutorial([FromBody] UpdateTutorialResource resource)
+    {
+        var updateTutorialCommand = UpdateTutorialCommandFromResourceAssembler.ToCommandFromResource(resource);
+        var tutorial = await tutorialCommandService.Handle(updateTutorialCommand);
+        if (tutorial is null) return NotFound();
+        var tutorialResource = TutorialResourceFromEntityAssembler.ToResourceFromEntity(tutorial);
+        return Ok(tutorialResource);
+    }
+    [HttpDelete]
+    [SwaggerOperation(
+        Summary = "Delete a Tutorial",
+        Description = "Detele a Tutorial",
+        OperationId = "DeleteTutorial")]
+    [SwaggerResponse(StatusCodes.Status201Created, "The Tutorial was deleted", typeof(CategoryResource))]
+    [SwaggerResponse(StatusCodes.Status400BadRequest, "The Tutorial could not be Deleted")]
+    public async Task<IActionResult> DeleteTutorial([FromBody] DeleteTutorialResource resource)
+    {
+        var deleteTutorialCommand = DeleteTutorialCommandFromResourceAssembler.ToCommandFromResource(resource);
+        var Tutorial = await tutorialCommandService.Handle(deleteTutorialCommand);
+        if (Tutorial is null) return NotFound();
+        var TutorialResource = TutorialResourceFromEntityAssembler.ToResourceFromEntity(Tutorial);
+        return Ok(TutorialResource);
+    }
+
 
     [HttpGet]
     [SwaggerOperation(
